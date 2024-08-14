@@ -79,7 +79,7 @@ a::after {
 .content .p1 {
     font-size: 60px;
     font-weight: 700;
-    background: linear-gradient(to right, rgb(185, 206, 214),rgb(45, 107, 155),rgb(20, 133, 220));
+    background: linear-gradient(to right, rgb(174, 211, 226),rgb(91, 164, 220),rgb(20, 133, 220));
     background: color-mix(in HSL, color percentage, color percentage);
     -webkit-background-clip: text;
     color: transparent;
@@ -196,7 +196,7 @@ h3 {
 
 .pro-image img {
     width: 94%;
-    height: 63%;
+    height: 58%;
 }
 
 .pro-details {
